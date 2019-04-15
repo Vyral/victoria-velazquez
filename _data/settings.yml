@@ -1,6 +1,6 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+title: Los Angeles Real Estate Video Blog with Victoria Velazquez
+description: Our mission at Amalfi Estates is to be your best resource for Los Angeles real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Amalfi Estates, your professional Los Angeles Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -11,21 +11,24 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
+  name: Victoria Velazquez
   title:
   license_number:
   about_markdown: |
+    Can you imagine a world where sales people only want you to buy something if it is a wise decision? What if a car salesperson talked you out of buying a car because she or he thought you were overpaying? Amalfi Estates, one of Los Angeles’ leading independent real estate companies, might be that company. You see, Amalfi Estates is a bit different than other real estate firms.
 
-  brand:
+
+    Operating as a team rather than individual agents allows us to provide a concierge level of service to our clients. Having Sales Partner specialists who live and breathe our culture of extraordinary performance while always keeping their client’s best interests at heart is what sets us apart.
+  brand: Amalfi Estates
   brokerage:
-  market:
-  address:
-  phone:
+  market: Los Angeles
+  address: '984 Monument St #105, Pacific Palisades, CA 90272'
+  phone: 310-614-4240
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: victoria@amalfiestates.com
+  url: http://amalfiestates.com
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -35,15 +38,15 @@ CTAs:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
+    CTA_title: "What’s Your Los Angeles Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
     CTA_url: /homevalue/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+    CTA_title2: "Looking for a Los Angeles Home?"
+    CTA_text2: "Search the entire MLS for your Los Angeles home."
     CTA_link_text2: "Search the MLS"
     CTA_url2: /homesearch/
 
@@ -62,11 +65,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/Amalfiestates/
   linkedin_url:
   youtube_url:
-  twitter_url:
-  instagram_url:
+  twitter_url: https://twitter.com/amalfiestates
+  instagram_url: https://www.instagram.com/amalfiestates/
   pinterest_url:
   zillow_url:
   trulia_url:
@@ -74,19 +77,19 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'Los Angeles Real Estate Podcast with Victoria Velazquez'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Los Angeles Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Amalfi Estates - your professional Los Angeles Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Los Angeles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author: 'Victoria Velazquez'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: Los Angeles Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -94,8 +97,8 @@ images:
   post_cta_image2: /img/home-search.jpg
 
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#04558A'
+  theme_color: '#262F36'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -104,7 +107,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
