@@ -1,7 +1,8 @@
 ---
 youtube_code:
 excerpt: Stay In-the-Loop On All Things Real Estate With Our New Video Blog
-enclosure: 's3://vyralmarketing/Victoria Velazquez/Victoria Velazquez - FB Ad Working.mp4'
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Victoria+Velazquez/Victoria+Velazquez+-+FB+Ad+Working.mp4
 pullquote:
 enclosure_type:
 enclosure_time:
