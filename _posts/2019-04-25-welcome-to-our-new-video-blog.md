@@ -1,7 +1,7 @@
 ---
 youtube_code:
 excerpt: Stay In-the-Loop On All Things Real Estate With Our New Video Blog
-enclosure:
+enclosure: 's3://vyralmarketing/Victoria Velazquez/Victoria Velazquez - FB Ad Working.mp4'
 pullquote:
 enclosure_type:
 enclosure_time:
@@ -22,4 +22,4 @@ Now, in an effort to stay connected and keep you even more informed, we’re goi
 
 **Through these video messages, we plan to bring you helpful, bite-sized content on the real estate topics that matter most to you.** Of course, we’re always open to hearing your thoughts and questions, so feel free to reach out if there are any topics you’d like for us to talk about in a future message.
 
-As always, if you have any other questions or would like more information, please give us a call or send us an email. We’re here for you and your real estate needs, and we look forward to providing you with more value than ever with this new video series.&nbsp;
+As always, if you have any other questions or would like more information, please give us a call or send us an email. We’re here for you and your real estate needs, and we look forward to providing you with more value than ever with this new video series.
