@@ -4,7 +4,8 @@ excerpt: Stay In-the-Loop On All Things Real Estate With Our New Video Blog
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Victoria+Velazquez/Victoria+Velazquez+-+FB+Ad+Working.mp4
 pullquote:
-enclosure_type:
+enclosure_type: >-
+  https://s3.amazonaws.com/vyralmarketing/Victoria+Velazquez/Victoria+Velazquez+-+FB+Ad+Working.mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/bigstock-handshake-success-job-intervie-254790886.jpg
