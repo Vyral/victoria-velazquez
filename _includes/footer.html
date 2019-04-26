@@ -3,16 +3,12 @@
 	    <div class="row footer-pad">
 	      {% comment %} if something is missing from the contact info it won't print extra columns {% endcomment %}
 	      {% if site.data.settings.client.brand == null and site.data.settings.client.brokerage == null %}
-	    <div class="row">
-	      <div class="col-sm-4">
-					{% if site.data.settings.client.phone2 != null %}
-					{{ site.data.settings.client.phone_type }}: <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone }}</a><br />
-					{{ site.data.settings.client.phone2_type }}: <a href="tel:{{site.data.settings.client.phone2 | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone2 }}</a><br />
-					{% else %}
-	        <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{site.data.settings.client.phone}}</a>
+	        <div class="col-sm-6">
+	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
+						{% if site.data.settings.client.license_number != null %}
+						<br><span>{{site.data.settings.client.license_number }}
 					{% endif %}
-
-	      </div>
+	        </div>
 	        <div class="col-sm-6">
 	          <address itemprop="address">{{site.data.settings.client.address}}</address>
 	        </div>
