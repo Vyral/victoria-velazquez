@@ -19,7 +19,7 @@ client:
 
 
     Operating as a team rather than individual agents allows us to provide a concierge level of service to our clients. Having Sales Partner specialists who live and breathe our culture of extraordinary performance while always keeping their client’s best interests at heart is what sets us apart.
-  brand: 
+  brand: Amalfi Estates
   brokerage:
   market: LA
   address: '984 Monument St #105, Pacific Palisades, CA 90272'
@@ -28,7 +28,7 @@ client:
   phone2:
   phone2_type:
   email: victoria@amalfiestates.com
-  url: 
+  url: http://amalfiestates.com/
 
 CTAs:
   first_CTA_text: Home Valuation
