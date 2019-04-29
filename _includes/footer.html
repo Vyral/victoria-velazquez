@@ -13,9 +13,6 @@
 	      <div class="col-sm-4"><a href="{{site.data.settings.client.url}}" target="_blank">{{site.data.settings.client.url | remove: "http://" | remove: "https://"}}</a></div>
 	    </div>	        
 	    <br><br>
-	        <div class="col-sm-6">
-	          <address itemprop="address">{{site.data.settings.client.address}}</address>
-	        </div>
 	      {% elsif site.data.settings.client.brand == null %}
 	        <div class="col-sm-4">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
