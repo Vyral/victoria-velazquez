@@ -9,6 +9,9 @@
 						<br><span>{{site.data.settings.client.license_number }}
 					{% endif %}
 	        </div>
+	      <div class="col-sm-4"><a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a></div>
+	      <div class="col-sm-4"><a href="{{site.data.settings.client.url}}" target="_blank">{{site.data.settings.client.url | remove: "http://" | remove: "https://"}}</a></div>
+	    </div>	        
 	        <div class="col-sm-6">
 	          <address itemprop="address">{{site.data.settings.client.address}}</address>
 	        </div>
