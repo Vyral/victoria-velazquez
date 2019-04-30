@@ -4,15 +4,11 @@
 	      {% comment %} if something is missing from the contact info it won't print extra columns {% endcomment %}
 	      {% if site.data.settings.client.brand == null and site.data.settings.client.brokerage == null %}
 	        <div class="col-sm-6">
-	          <span itemprop="founder">310-614-4240</span>
+	          <span itemprop="founder"></span>
 						{% if site.data.settings.client.license_number != null %}
 						<br><span>{{site.data.settings.client.license_number }}
 					{% endif %}
 	        </div>
-	      <div class="col-sm-4"><a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a></div>
-	      <div class="col-sm-4"><a href="{{site.data.settings.client.url}}" target="_blank">{{site.data.settings.client.url | remove: "http://" | remove: "https://"}}</a></div>
-	    </div>	        
-	    <br><br>
 	      {% elsif site.data.settings.client.brand == null %}
 	        <div class="col-sm-4">
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
