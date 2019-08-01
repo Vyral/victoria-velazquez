@@ -8,7 +8,7 @@ enclosure_type: >-
   https://s3.amazonaws.com/vyralmarketing/Victoria+Velazquez/Victoria+Velazquez+-+FB+Ad+Working.mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/bigstock-handshake-success-job-intervie-254790886.jpg
+youtube_alternate_image: /uploads/reconnect-youtube.jpg
 layout: post
 title: Welcome to My New Video Blog
 date: 2019-04-25 00:00:00
